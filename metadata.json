@@ -1,0 +1,7 @@
+{
+  "name": "GeoMemoir",
+  "description": "A real-time location tracking app that allows users to drop persistent, AI-enhanced notes at their current coordinates.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
